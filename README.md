@@ -61,9 +61,7 @@
 </div>
 
 ###
-<div>
-  <br clear="both">
+<br clear="both">
 
-  <img src="https://raw.githubusercontent.com/maofuentes/maofuentes/output/snake.svg" alt="Snake animation" />
-</div>
+<img src="https://raw.githubusercontent.com/maofuentes/maofuentes/output/snake.svg" alt="Snake animation" />
 ###
